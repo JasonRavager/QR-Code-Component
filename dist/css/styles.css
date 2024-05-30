@@ -664,9 +664,9 @@ video {
   color: hsl(218 44% 22% / var(--tw-text-opacity));
 }
 
-.text-zinc-300{
+.text-light_slate_gray{
   --tw-text-opacity: 1;
-  color: rgb(212 212 216 / var(--tw-text-opacity));
+  color: rgb(125 136 158 / var(--tw-text-opacity));
 }
 
 .shadow-lg{

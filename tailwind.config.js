@@ -7,6 +7,7 @@ module.exports = {
         'light_gray': 'hsl(212, 45%, 89%)',
         'grayish_blue': 'hsl(220, 15%, 55%)',
         'dark_blue': 'hsl(218, 44%, 22%)',
+        'light_slate_gray': '#7D889E',
       },
       fontFamily: {
         'main': ['Outfit', 'sans-serif'],
